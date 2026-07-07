@@ -11,18 +11,9 @@ Hi, I'm Sadik Mathakiya! 👋<br>I am a 2nd-year B.Tech Computer Engineering stu
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <h2> ⚠️ SYSTEM_METRICS : ACTIVE_NODE </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Mathakiya&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&ring_color=00FF00" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Sadik-Mathakiya&hide_border=true&background=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&ring_color=00FF00" width="49%" />
-</div>
+# 📊 My Coding Matrix | GitHub Insights: <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Mathakiya&show_icons=true&theme=nord&hide_border=true&icon_color=ffdd00&text_color=ffffff&bg_color=000000" width="48%" /> <img src="https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=nord&hide_border=true&icon_color=ffdd00&text_color=ffffff&bg_color=000000" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadik-Mathakiya&theme=react-dark&hide_border=true&line=ffdd00&point=FFFFFF&area=true&bg_color=000000" width="100%" /> </p>
 
-<br>
-
-<div align="center">
-  <h2> 🌐 GLOBAL_CONTRIBUTION_STREAM </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadik-Mathakiya&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div># 🏆 GitHub Trophies
+🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadik-Mathakiya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
