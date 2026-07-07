@@ -11,13 +11,13 @@ Hi, I'm Sadik Mathakiya! 👋<br>I am a 2nd-year B.Tech Computer Engineering stu
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📈 My Coding Activity & Stats:
+# 📊 My Coding Matrix | GitHub Insights:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadik-Mathakiya&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadik-Mathakiya&show_icons=true&theme=nord&hide_border=true&icon_color=ffdd00&text_color=ffffff&bg_color=000000" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=nord&hide_border=true&icon_color=ffdd00&text_color=ffffff&bg_color=000000" width="48%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sadik-Mathakiya&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadik-Mathakiya&theme=react-dark&hide_border=true&line=ffdd00&point=FFFFFF&area=true&bg_color=000000" width="100%" />
 </p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadik-Mathakiya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
