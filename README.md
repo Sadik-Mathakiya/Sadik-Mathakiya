@@ -12,11 +12,11 @@ Hi, I'm Sadik Mathakiya! 👋<br>I am a 2nd-year B.Tech Computer Engineering stu
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sadik-Mathakiya&theme=dark&show_icons=true&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadik-Mathakiya&theme=dark)
 <br/>
 ![](https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=dark&hide_border=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadik-Mathakiya&theme=dark&layout=compact&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadik-Mathakiya&theme=dark)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadik-Mathakiya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
