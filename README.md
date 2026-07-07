@@ -19,7 +19,7 @@ Hi, I'm Sadik Mathakiya! 👋<br>I am a 2nd-year B.Tech Computer Engineering stu
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadik-Mathakiya&theme=react-dark&hide_border=true&line=ffdd00&point=FFFFFF&area=true&bg_color=000000" width="100%" />
 </p>
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadik-Mathakiya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
