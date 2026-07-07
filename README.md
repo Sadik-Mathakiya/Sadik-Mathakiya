@@ -11,12 +11,18 @@ Hi, I'm Sadik Mathakiya! 👋<br>I am a 2nd-year B.Tech Computer Engineering stu
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadik-Mathakiya&theme=dark)
-<br/>
-![](https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=dark&hide_border=true)
-<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadik-Mathakiya&theme=dark)
+# 📊 GitHub Stats Dashboard:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadik-Mathakiya&theme=dracula" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sadik-Mathakiya&theme=dracula" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=dracula&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadik-Mathakiya&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=Sadik-Mathakiya&theme=dracula" width="48%" />
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadik-Mathakiya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
