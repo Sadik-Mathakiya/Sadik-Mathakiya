@@ -12,6 +12,10 @@ Hi, I'm Sadik Mathakiya! 👋<br>I am a 2nd-year B.Tech Computer Engineering stu
 ![](https://streak-stats.demolab.com/?user=Sadik-Mathakiya&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sadik-Mathakiya&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sadik-Mathakiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
